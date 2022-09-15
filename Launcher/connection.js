@@ -21,10 +21,10 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 //settings
 
 let fake = process.env.OWNER_NUMBER
-global.owner = ['918590508376',`${fake}`]
+global.owner = ['916367289019',`${fake}`]
 global.wame = "https://github.com/Ajmal-Achu/Wizard-MD"
-global.pemilik = ['918590508376']
-global.premium = ['918590508376']
+global.pemilik = ['916367289019']
+global.premium = ['916367289019']
 global.pengguna = process.env.USER_NAME
 global.footer = process.env.WATERMARK
 global.watermark = process.env.WATERMARK
@@ -32,8 +32,8 @@ global.logo = process.env.LOGO
 global.botname = process.env.BOT_NAME
 global.caption = process.env.CAPTION
 global.ownername = process.env.OWNER_NAME
-global.tutorial = "https://youtu.be/hHQRs_eCoXM"
-global.youtube = "github.com/Ajmal-Achu"
+global.tutorial = "nhi h lawde"
+global.youtube = "nhi h ye bhi lawde"
 global.packname = process.env.STICKER_PACK_NAME
 global.logo = process.env.LOGO
 global.author = process.env.STICKER_AUTHOR_NAME
@@ -65,10 +65,10 @@ global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
     success: 'All set sucessfully changed settings!',
-    public: 'Wizard MD is now working in public mode',
-    self: 'Wizard MD is now working in private mode',
+    public: 'Bot is now working in public mode',
+    self: 'Bot is now working in private mode',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*wizard bot must be admin first!*',
+    botAdmin: '*Bot must be admin first!*',
     owner: '*this feature is only for owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
@@ -80,7 +80,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100000 //free user limit
+    free: 30//free user limit
 }
 global.rpg = {
 darahawal: 100,
