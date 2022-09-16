@@ -30,15 +30,15 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": false,
-			"value": "AJMAL x ABHI"
+			"value": "SANJUU XD"
 		},
 		"OWNER_NUMBER": {
-			"description": "Add the owner number here",
+			"description": "916367289019",
 			"required": true,
 			"value": ""
 		},
 		"Caption": {
-			"description": "Add the owner location here and if you want to use the default name then just leave it",
+			"description": "RJ 02",
 			"required": false,
 			"value": "Power Is Power!"
 		},
