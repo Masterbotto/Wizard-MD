@@ -22,7 +22,7 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 
 let fake = process.env.OWNER_NUMBER
 global.owner = ['916367289019',`${fake}`]
-global.wame = "https://github.com/Ajmal-Achu/Wizard-MD"
+global.wame = "https://github.com/Masterbotto/Wizard-MD"
 global.pemilik = ['916367289019']
 global.premium = ['916367289019']
 global.pengguna = process.env.USER_NAME
@@ -67,9 +67,9 @@ global.mess = {
     success: 'All set sucessfully changed settings!',
     public: 'Bot is now working in public mode',
     self: 'Bot is now working in private mode',
-    admin: '*This feature is only for admin!*',
+    admin: '*This feature is only for admin! Tere liye nahi hai bhadwe*',
     botAdmin: '*Bot must be admin first!*',
-    owner: '*this feature is only for owner*',
+    owner: '*this feature is only for owner Tere liye nahi hai lawde*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
