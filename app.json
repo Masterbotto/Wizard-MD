@@ -1,7 +1,7 @@
 {
   "name": "SANJUU XD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Ajmal-Achu/Wizard-MD",
+  "repository": "https://github.com/Masterbotto/Wizard-MD",
   "logo": "https://telegra.ph/file/e0bc28185977299bf5d2c.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
@@ -45,25 +45,25 @@
 		"BOT_NAME": {
 			"description": "Change the bot name here",
 			"required": true,
-			"value": "Wizard MD"
+			"value": "BB BOT"
 		},
 		"WATERMARK": {
 			"description": "Add your watermark here",
 			"required": true,
-			"value": "Wizard MD by AJMAL x ABHI"
+			"value": "BB BOT X SANJUU XD "
 		},
 		"STICKER_PACK_NAME": {
 			"description": "Add sticker pack name here",
 			"required": true,
-			"value": "Wizard-MD"
+			"value": "SANJUU XD"
 		},
 		"STICKER_AUTHOR_NAME": {
 			"description": "Add sticker pack author name here",
 			"required": true,
-			"value": "AJMAL x ABHI"
+			"value": "SANJUU XD"
 		},
 		"REACT_EMOJI": {
-			"description": "Add any emoji here.",
+			"description": "🍑.",
 			"required": true,
 			"value": ""
 		},
