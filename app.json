@@ -29,7 +29,7 @@
 		},
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
-			"required": false,
+			"required": true,
 			"value": "SANJUU XD"
 		},
 		"OWNER_NUMBER": {
