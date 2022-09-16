@@ -170,7 +170,7 @@ showAdAttribution: true,
 title: botname,
 body: caption,
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/Ajmal-Achu/Wizard-MD`,
+mediaUrl: `https://github.com/Masterbotto/Wizard-MD`,
 description: ownername,
 previewType: "PHOTO",
 thumbnail: thumbwiz,
@@ -545,7 +545,7 @@ Wizard.relayMessage(m.chat, template.message, { messageId: template.key.id })
   hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ${global.botname}`,
   hydratedButtons:  [{        
       "urlButton": {
-        "displayText": "SUBSCRIBE",
+        "displayText": "FOLLOW",
         "url": youtube
       }
   }, {
@@ -7649,8 +7649,8 @@ hydratedContentText: anu,
 hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
-"displayText": "SUBSCRIBE",
-"url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+"displayText": "FOLLOW",
+"url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
 }
 }, {
 urlButton: {
@@ -7700,8 +7700,8 @@ hydratedContentText: anu,
 hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
-"displayText": "SUBSCRIBE",
-"url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+"displayText": "FOLLOW",
+"url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
 }
 }, {
 urlButton: {
@@ -7769,8 +7769,8 @@ case 'photooxymenu': {
   hydratedFooterText: `${global.botname}`,
   hydratedButtons: [{        
   "urlButton": {
-  "displayText": "SUBSCRIBE",
-  "url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+  "displayText": "Follow",
+  "url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
   }
   }, {
   urlButton: {
@@ -7957,8 +7957,8 @@ hydratedContentText: anu,
 hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
-"displayText": "SUBSCRIBE",
-"url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+"displayText": "FOLLOW",
+"url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
 }
 }, {
 urlButton: {
@@ -8026,13 +8026,13 @@ hydratedContentText: anu,
 hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
-"displayText": "SUBSCRIBE",
-"url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+"displayText": "follow",
+"url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/Masterbotto/Wizard-MD'
 }
 }
 ]
@@ -8110,13 +8110,13 @@ hydratedContentText: anu,
 hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
-"displayText": "SUBSCRIBE",
-"url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+"displayText": "follow",
+"url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/Masterbotto/Wizard-MD'
 }
 }
 ]
@@ -8197,20 +8197,20 @@ case 'animemenu':{
   hydratedFooterText: `${global.botname}`,
   hydratedButtons: [{        
   "urlButton": {
-  "displayText": "SUBSCRIBE",
-  "url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+  "displayText": "FOLLOW",
+  "url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/Masterbotto/Wizard-MD'
   }
   }
   ]
   }
   }
   }), { userJid: m.chat })
-  Wizard.relayMessage(m.chat, template.message, { messageId: template.key.id })
+  SANJUU XD.relayMessage(m.chat, template.message, { messageId: template.key.id })
   }
 break
 case 'convertmenu': {
@@ -8262,13 +8262,13 @@ case 'convertmenu': {
   hydratedFooterText: `${global.botname}`,
   hydratedButtons: [{        
   "urlButton": {
-  "displayText": "SUBSCRIBE",
-  "url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+  "displayText": "Follow",
+  "url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/Masterbotto/Wizard-MD'
   }
   }
   ]
@@ -8322,13 +8322,13 @@ case 'toolmenu': {
   hydratedFooterText: `${global.botname}`,
   hydratedButtons: [{        
   "urlButton": {
-  "displayText": "SUBSCRIBE",
-  "url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+  "displayText": "FOLLOW",
+  "url": "https://instagram.com/sanjuu_xd?igshid=YmMyMTA2M2Y="
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/Masterbotto/Wizard-MD'
   }
   }
   ]
